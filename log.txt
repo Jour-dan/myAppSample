@@ -1,0 +1,2 @@
+error log file 
+this was created to demostrate the .gitignore functionality
